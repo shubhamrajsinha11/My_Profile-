@@ -4,9 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=3B82F6&center=true&vCenter=true&width=520&lines=Learning+something+new+every+day;Python+%7C+SQL+%7C+Data+Analysis;Building+projects+to+learn+by+doing)](https://github.com/shubhamrajsinha11?tab=repositories)
 
-[![Status](https://img.shields.io/badge/STATUS-LEARNING-2ea44f?style=for-the-badge)](https://github.com/shubhamrajsinha11/MACHINE_LEARNING)
-[![Focus](https://img.shields.io/badge/FOCUS-DATA_SCIENCE-0969da?style=for-the-badge)](https://github.com/shubhamrajsinha11/environmentdiseasecorelation)
-[![Language](https://img.shields.io/badge/PYTHON-SQL-dfb317?style=for-the-badge)](https://github.com/shubhamrajsinha11?tab=repositories&language=python)
 
 </div>
 
